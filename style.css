@@ -71,7 +71,7 @@ section {
 
 section h2 {
   font-size: 1.6rem;
-  color: #2E7D32;
+  color: #CCFFFF;
   margin-bottom: 20px;
   padding-bottom: 10px;
   border-bottom: 2px solid #E8F5E9;
@@ -105,13 +105,13 @@ section h2 {
 .project-card h3 {
   font-size: 1.1rem;
   font-weight: 600;
-  color: #333;
+  color: #CC66FF;
   margin-bottom: 8px;
 }
 
 .project-card p {
   font-size: 0.9rem;
-  color: #666;
+  color: #666FFF;
   line-height: 1.6;
   margin-bottom: 14px;
 }

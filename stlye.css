@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, sans-serif; /* ตั้งค่าฟอนต์หลัก */
-    line-height: 1.6; /* ระยะห่างระหว่างบรรทัดเพื่อให้ง่ายต่อการอ่าน */
+    font-family: Arial, sans-serif; /* sans-serif */
+    line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4; /* สีพื้นหลังของเว็บ */
-    color: #333; /* สีตัวอักษรหลัก */
+    background-color: #f4f4f4; /*#9933FF */
+    color: #333; /* #FFFFFF */
 }
